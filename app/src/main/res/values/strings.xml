@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarazi</string>
+    <string name="usuario">Usuario</string>
+    <string name="todo">tarazi</string>
+    <string name="password">contraseña</string>
+    <string name="Btn_iniciar_Sesion">Iniciar</string>
+    <string name="Btn_registrarse">Registrarse</string>
+
+</resources>
